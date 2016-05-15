@@ -3,6 +3,10 @@ class Test
     public static void main(String[] args)
     {
         testSum();
+        testsubtract();
+        testmultiply();
+        testdivide();
+        
     }
 
     private static void testSum()
